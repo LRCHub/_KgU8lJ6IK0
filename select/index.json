@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "......",
+  "base_artist": "x0o0x_",
+  "createdAt": "2026-02-23T06:40:39.865137Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "......",
+      "artist": "x0o0x",
+      "has_synced": false,
+      "path": "select/pl_01_......_x0o0x.txt"
+    }
+  ]
+}
